@@ -3,14 +3,5 @@ pandas
 numpy
 scikit-learn
 sklearn
-SVC
-LogisticRegression
-RandomForestClassifier
-LabelEncoder
-train_test_split
-plot_confusion_matrix
-plot_roc_curve
-plot_precision_recall_curve
-precision_score
-recall_score
+
 
